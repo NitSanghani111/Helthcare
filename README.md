@@ -44,13 +44,13 @@ With smooth animations and a responsive design, it’s perfect for healthcare in
 ## 🎨 Screenshots
 
 ### 🏥 Landing Page  
-![Landing Page](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069)
+https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069
 
 ### 📅 Appointment Booking  
-![Appointment Booking](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411851)
+[![Appointment Booking](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411851)](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411851)
 
 ### 🩺 Doctor Dashboard  
-![Doctor Dashboard]([images/doctor-dashboard.png](https://github.com/NitSanghani111/Helthcare/issues/1#issue-2673071267))
+[![Landing Page](https://github.com/NitSanghani111/Helthcare/issues/1#issuecomment-2486411069)](https://github.com/NitSanghani111/Helthcare/issues/1#issue-2673071267)
 
 ---
 
